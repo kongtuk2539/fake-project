@@ -58,6 +58,9 @@ function App() {
             Click on the Vite and React logos to learn more Hi, I am Tilis.
         </div>
       </div>
+      <p className="read-the-docs">
+        Click on the Vite and React logos to learn more Hi, I am Tilis.
+      </p>
     </>
   );
 }
