@@ -55,6 +55,7 @@ function App() {
               </button>
             </li>
           </ul>
+            Click on the Vite and React logos to learn more Hi, I am Tilis.
         </div>
       </div>
     </>
